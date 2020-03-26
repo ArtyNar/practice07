@@ -1,19 +1,11 @@
 @import url('~bootstrap/dist/css/bootstrap.css');
 
 /* TODO */
-.box
+body
 {
-  float: left;
-  width: 100px;
-  height: 100px;
+  padding: 2rem;
 }
-
-.red
+input
 {
-  background-color: red;
-}
-
-.blue
-{
-  background-color: blue;
+  margin-bottom: .5rem;
 }
